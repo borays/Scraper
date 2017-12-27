@@ -2,6 +2,6 @@
 
 We scrape the github trending page of these languages: go, python, and push a markdown result everyday.
 
-[2017-12-26.md](https://github.com/borays/Scraper/blob/master/2017-12-26.md)
+[2017-12-27.md](https://github.com/borays/Scraper/blob/master/2017-12-27.md)
 
-Last Updated: 2017-12-26 11:29:44
+Last Updated: 2017-12-27 11:29:56
